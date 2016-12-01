@@ -25,7 +25,7 @@ h4{
 }
 img{
   margin: auto;
-  display: inline-block;
+  display: block;
   width: 90%;
   height: auto;
 }
